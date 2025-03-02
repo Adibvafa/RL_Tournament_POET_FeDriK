@@ -1,6 +1,8 @@
 # Warehouse Brawl: Comprehensive Guide to Building an AI for Platform Fighting Games
 
-![Agents Fighting](sample.mp4)
+[![Agents Fighting](https://raw.githubusercontent.com/Adibvafa/RL_Tournament_POET_FeDriK/main/sample.mp4)](https://raw.githubusercontent.com/Adibvafa/RL_Tournament_POET_FeDriK/main/sample.mp4)
+
+<br>
 
 ## Table of Contents
 
