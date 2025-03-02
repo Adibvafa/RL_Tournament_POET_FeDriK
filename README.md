@@ -1,5 +1,7 @@
 # Warehouse Brawl: Comprehensive Guide to Building an AI for Platform Fighting Games
 
+![Agents Fighting](sample.mp4)
+
 ## Table of Contents
 
 1. **Introduction**
