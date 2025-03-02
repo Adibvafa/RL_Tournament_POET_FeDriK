@@ -1,4 +1,4 @@
-# Warehouse Brawl: Comprehensive Guide to Building an AI for Platform Fighting Games
+# 🏆 Warehouse Brawl | UTMIST AI^2 Competition
 
 [![Agents Fighting](https://img.youtube.com/vi/zOmkgw6jru4/0.jpg)](https://www.youtube.com/watch?v=zOmkgw6jru4)
 <br>
